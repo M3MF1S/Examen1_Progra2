@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\C#\Examen1_Programacion2_MatthiasPaniagua\bin\Debug\Examen1_Programacion2_MatthiasPaniagua.exe.config
+C:\Users\HP\Documents\C#\Examen1_Programacion2_MatthiasPaniagua\bin\Debug\Examen1_Programacion2_MatthiasPaniagua.exe
+C:\Users\HP\Documents\C#\Examen1_Programacion2_MatthiasPaniagua\bin\Debug\Examen1_Programacion2_MatthiasPaniagua.pdb
+C:\Users\HP\Documents\C#\Examen1_Programacion2_MatthiasPaniagua\obj\Debug\Examen1_Programacion2_MatthiasPaniagua.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\C#\Examen1_Programacion2_MatthiasPaniagua\obj\Debug\Examen1_Programacion2_MatthiasPaniagua.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C#\Examen1_Programacion2_MatthiasPaniagua\obj\Debug\Examen1_Programacion2_MatthiasPaniagua.exe
+C:\Users\HP\Documents\C#\Examen1_Programacion2_MatthiasPaniagua\obj\Debug\Examen1_Programacion2_MatthiasPaniagua.pdb
